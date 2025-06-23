@@ -1,0 +1,102 @@
+2025-06-23 21:16:16,004 - The installed version of bitsandbytes was compiled without GPU support. 8-bit optimizers and GPU quantization are unavailable.
+2025-06-23 21:16:16,458 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.6:5001
+2025-06-23 21:16:16,458 - [33mPress CTRL+C to quit[0m
+2025-06-23 21:16:16,483 -  * Restarting with watchdog (windowsapi)
+2025-06-23 21:16:49,081 - The installed version of bitsandbytes was compiled without GPU support. 8-bit optimizers and GPU quantization are unavailable.
+2025-06-23 21:16:49,453 -  * Debugger is active!
+2025-06-23 21:16:49,471 -  * Debugger PIN: 143-526-004
+2025-06-23 21:16:50,148 - 127.0.0.1 - - [23/Jun/2025 21:16:50] "GET / HTTP/1.1" 200 -
+2025-06-23 21:16:50,150 - 127.0.0.1 - - [23/Jun/2025 21:16:50] "GET / HTTP/1.1" 200 -
+2025-06-23 21:16:50,153 - 127.0.0.1 - - [23/Jun/2025 21:16:50] "GET / HTTP/1.1" 200 -
+2025-06-23 21:16:50,156 - 127.0.0.1 - - [23/Jun/2025 21:16:50] "GET / HTTP/1.1" 200 -
+2025-06-23 21:16:50,596 - 127.0.0.1 - - [23/Jun/2025 21:16:50] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:16:57,166 - User: hi
+2025-06-23 21:17:00,988 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:17:00,988 - 127.0.0.1 - - [23/Jun/2025 21:17:00] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:18:43,274 - 127.0.0.1 - - [23/Jun/2025 21:18:43] "GET / HTTP/1.1" 200 -
+2025-06-23 21:18:43,421 - 127.0.0.1 - - [23/Jun/2025 21:18:43] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:18:46,365 - User: hello
+2025-06-23 21:18:47,795 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:18:47,795 - 127.0.0.1 - - [23/Jun/2025 21:18:47] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:19:02,614 - User: i m feeling bad
+2025-06-23 21:19:03,890 - Bot: i ' m sorry to hear that . why are you feeling bad ? what ' s going on ?
+2025-06-23 21:19:03,890 - 127.0.0.1 - - [23/Jun/2025 21:19:03] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:19:08,192 - User: i failed my exam
+2025-06-23 21:19:09,411 - Bot: i ' m so sorry to hear that . are you going to study for the exam tomorrow ?
+2025-06-23 21:19:09,411 - 127.0.0.1 - - [23/Jun/2025 21:19:09] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:20:15,187 - 127.0.0.1 - - [23/Jun/2025 21:20:15] "GET / HTTP/1.1" 200 -
+2025-06-23 21:20:15,453 - 127.0.0.1 - - [23/Jun/2025 21:20:15] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:20:18,158 - User: hi
+2025-06-23 21:20:19,515 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:20:19,515 - 127.0.0.1 - - [23/Jun/2025 21:20:19] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:21:42,759 - 127.0.0.1 - - [23/Jun/2025 21:21:42] "GET / HTTP/1.1" 200 -
+2025-06-23 21:21:43,019 - 127.0.0.1 - - [23/Jun/2025 21:21:43] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:21:46,031 - User: hi
+2025-06-23 21:21:47,281 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:21:47,281 - 127.0.0.1 - - [23/Jun/2025 21:21:47] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:22:32,120 - 127.0.0.1 - - [23/Jun/2025 21:22:32] "GET / HTTP/1.1" 200 -
+2025-06-23 21:22:32,369 - 127.0.0.1 - - [23/Jun/2025 21:22:32] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:22:36,058 - User: hi
+2025-06-23 21:22:37,286 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:22:37,286 - 127.0.0.1 - - [23/Jun/2025 21:22:37] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:23:28,062 - 127.0.0.1 - - [23/Jun/2025 21:23:28] "GET / HTTP/1.1" 200 -
+2025-06-23 21:23:28,323 - 127.0.0.1 - - [23/Jun/2025 21:23:28] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:23:30,822 - User: hi
+2025-06-23 21:23:32,115 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:23:32,116 - 127.0.0.1 - - [23/Jun/2025 21:23:32] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:23:43,365 - 127.0.0.1 - - [23/Jun/2025 21:23:43] "GET / HTTP/1.1" 200 -
+2025-06-23 21:23:43,625 - 127.0.0.1 - - [23/Jun/2025 21:23:43] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:23:47,980 - User: hi
+2025-06-23 21:23:49,240 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:23:49,242 - 127.0.0.1 - - [23/Jun/2025 21:23:49] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:23:57,469 - 127.0.0.1 - - [23/Jun/2025 21:23:57] "GET / HTTP/1.1" 200 -
+2025-06-23 21:23:57,731 - 127.0.0.1 - - [23/Jun/2025 21:23:57] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:24:00,036 - User: hi
+2025-06-23 21:24:01,336 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:24:01,336 - 127.0.0.1 - - [23/Jun/2025 21:24:01] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:24:34,848 - 127.0.0.1 - - [23/Jun/2025 21:24:34] "GET / HTTP/1.1" 200 -
+2025-06-23 21:24:35,099 - 127.0.0.1 - - [23/Jun/2025 21:24:35] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:24:37,789 - User: hi
+2025-06-23 21:24:39,064 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:24:39,065 - 127.0.0.1 - - [23/Jun/2025 21:24:39] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:25:02,428 - 127.0.0.1 - - [23/Jun/2025 21:25:02] "GET / HTTP/1.1" 200 -
+2025-06-23 21:25:02,692 - 127.0.0.1 - - [23/Jun/2025 21:25:02] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:25:03,921 - User: hi
+2025-06-23 21:25:05,078 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:25:05,078 - 127.0.0.1 - - [23/Jun/2025 21:25:05] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:25:54,848 - User: hi
+2025-06-23 21:25:56,118 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:25:56,118 - 127.0.0.1 - - [23/Jun/2025 21:25:56] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:25:57,024 - 127.0.0.1 - - [23/Jun/2025 21:25:57] "GET / HTTP/1.1" 200 -
+2025-06-23 21:25:57,367 - 127.0.0.1 - - [23/Jun/2025 21:25:57] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:26:00,240 - User: hi
+2025-06-23 21:26:01,539 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:26:01,540 - 127.0.0.1 - - [23/Jun/2025 21:26:01] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:26:04,422 - User: i  m bad
+2025-06-23 21:26:05,678 - Bot: i ' m sorry to hear that . what did you do to make you feel that way ?
+2025-06-23 21:26:05,678 - 127.0.0.1 - - [23/Jun/2025 21:26:05] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:26:42,836 - 127.0.0.1 - - [23/Jun/2025 21:26:42] "GET / HTTP/1.1" 200 -
+2025-06-23 21:26:43,095 - 127.0.0.1 - - [23/Jun/2025 21:26:43] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:26:45,257 - User: hi
+2025-06-23 21:26:46,542 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:26:46,544 - 127.0.0.1 - - [23/Jun/2025 21:26:46] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:26:50,970 - User: i m grt
+2025-06-23 21:26:52,289 - Bot: hi grt , i ' m dad ! what ' s grt ? i don ' t get it .
+2025-06-23 21:26:52,289 - 127.0.0.1 - - [23/Jun/2025 21:26:52] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:27:18,740 - 127.0.0.1 - - [23/Jun/2025 21:27:18] "GET / HTTP/1.1" 200 -
+2025-06-23 21:27:19,000 - 127.0.0.1 - - [23/Jun/2025 21:27:19] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:27:21,057 - User: hi
+2025-06-23 21:27:22,369 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:27:22,370 - 127.0.0.1 - - [23/Jun/2025 21:27:22] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:27:43,219 - 127.0.0.1 - - [23/Jun/2025 21:27:43] "GET / HTTP/1.1" 200 -
+2025-06-23 21:27:43,488 - 127.0.0.1 - - [23/Jun/2025 21:27:43] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:27:46,360 - User: hi
+2025-06-23 21:27:47,533 - Bot: hello , how are you today ? i just got back from a long day at the office .
+2025-06-23 21:27:47,533 - 127.0.0.1 - - [23/Jun/2025 21:27:47] "POST /chat HTTP/1.1" 200 -
+2025-06-23 21:28:19,875 - 127.0.0.1 - - [23/Jun/2025 21:28:19] "GET / HTTP/1.1" 200 -
+2025-06-23 21:28:20,142 - 127.0.0.1 - - [23/Jun/2025 21:28:20] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-23 21:28:51,006 - 127.0.0.1 - - [23/Jun/2025 21:28:51] "GET / HTTP/1.1" 200 -
+2025-06-23 21:28:51,123 - 127.0.0.1 - - [23/Jun/2025 21:28:51] "GET /static/style.css HTTP/1.1" 200 -

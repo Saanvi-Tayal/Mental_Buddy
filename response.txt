@@ -1,0 +1,18 @@
+sad: I'm really sorry you're feeling this way. Would you like to share more?
+stressed: That sounds tough. Take a deep breath, and let’s talk about what’s going on.
+anxious: I hear you. It’s okay to feel anxious sometimes. Want to tell me more?
+crisis: I'm here, but I’m not a professional. Please contact a helpline like 1-800-273-8255 (US) or a trusted person.
+lonely: I'm sorry you're feeling lonely. I'm here if you want to talk or just need someone to listen.
+angry: It's okay to feel angry. Want to talk about what's been bothering you?
+overwhelmed: That sounds overwhelming. Let's take it one step at a time—what’s on your mind?
+hopeless: I'm here for you. Things can get better, even if it doesn’t feel that way right now.
+worthless: You are not worthless. You matter, and I'm here to support you.
+confused: It’s totally okay to feel confused. Let’s try to figure this out together.
+guilty: Everyone makes mistakes. You’re not alone—do you want to talk about what happened?
+scared: That sounds frightening. You're safe here—want to tell me more?
+numb: Feeling numb can be really tough. I’m here if you want to talk through it.
+ashamed: Shame is heavy to carry. Just know you're not alone and it’s okay to open up.
+tired: You sound exhausted. Want to share what's been draining you lately?
+insecure: I know it’s hard, but your feelings are valid. I’m here to listen if you want to talk.
+jealous: It’s okay to feel that way sometimes. Want to explore what's behind that feeling?
+grieving: I'm so sorry for your loss. I'm here for you—whatever you need.
