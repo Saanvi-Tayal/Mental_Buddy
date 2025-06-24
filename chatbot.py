@@ -11,6 +11,7 @@ logging.basicConfig(filename='logs/chatbot_logs.txt', level=logging.INFO,
 
 tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot_small-90M")
 # model = AutoModelForSeq2SeqLM.from_pretrained("./model")
+base_model = AutoModelForSeq2SeqLM.from_pretrained("facebook/blenderbot_small-90M")
 model = PeftModel.from_pretrained(base_model, "saanvitayal/mental_buddy")
 
 sia = SentimentIntensityAnalyzer()
