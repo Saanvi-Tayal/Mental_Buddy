@@ -3,13 +3,15 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import nltk
 from nltk.tokenize import word_tokenize
 import logging
+from peft import PeftModel
 import re
 
 logging.basicConfig(filename='logs/chatbot_logs.txt', level=logging.INFO, 
                     format='%(asctime)s - %(message)s')
 
 tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot_small-90M")
-model = AutoModelForSeq2SeqLM.from_pretrained("./model")
+# model = AutoModelForSeq2SeqLM.from_pretrained("./model")
+model = PeftModel.from_pretrained(base_model, "saanvitayal/mental_buddy")
 
 sia = SentimentIntensityAnalyzer()
 
